@@ -1,5 +1,6 @@
 console.log("hi");
 // Easy start
+// Kullanıcıdan bir sayı almanızı ve bu sayının asal olup olmadığını kullanıcıya söylemenizi istiyorum. 
 let text = ""
 let sayı = 0;
 
@@ -25,6 +26,7 @@ function Asalmi() {
 
 
 // Medium start
+//Kullanıcıdan bir kelime almanız gerekiyor. Bu kelimenin harflerini büyük harflere dönüştüren bir program yazmanızı istiyorum. 
 function Buyuk() {
     Metin = document.getElementById('metin').value;
 

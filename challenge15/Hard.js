@@ -1,1 +1,2 @@
 console.log("hi from hard.js")
+// Bir tam sayı dizisi oluşturmanı istiyorum. Kullanıcıdan aldığın hedef sayı doğrultusunda sayı dizisinin içinden sayılar seçip toplayarak hedef sayıya ulaşmasını sağlamalısın. Farklı farklı kombinasyonlar ile hedef sayıya ulaşıyor olman burada çok önemli! 🥳
